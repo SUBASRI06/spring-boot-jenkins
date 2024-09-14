@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Good Morning, today is tuesday !!";
+		return "Good Morning, today is saturday and pipeline is running !!";
 	}
 
 }
